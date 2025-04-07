@@ -3,12 +3,12 @@
 
 
 
-Hello! I am a recent graduate with a profound interest in IT, cloud & cybersecurity, with a dedication to solving complex problems!
+Hello, I am a recent graduate with a profound interest in IT, cloud & cybersecurity - with a dedication to solving complex problems!
 
 ## Objective
 
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to bring value in security/cloud security to help safeguard valuable assets as a cloud security engineer.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to bring value in security/cloud security to help safeguard valuable assets as an aspiring security professional
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
